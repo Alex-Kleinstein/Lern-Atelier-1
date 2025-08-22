@@ -6,9 +6,11 @@ Name: Alex Kleinstein
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Ich habe zurzeit noch keine Noten
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+nichts
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
