@@ -42,9 +42,14 @@ Heute habe ich... (50-100 Wörter)
 (Heute habe ich... (50-100 Wörter))
 
 ## Planung 29.8.2025
-- [ ] Weiter an der Deskopapplikation aus Testen
-- [ ] Bei Mission 319 Mission 6 erledigen
-- [ ] Bei 413 1709 erldeigen
+- [X] Weiter an der Deskopapplikation aus Testen
+- [X] Bei Mission 319 Mission 6 erledigen
+- [X] Bei 413 1709 erldeigen
+  
 
+## Planung 5.9.2025
+- [] Im Modul 319 ForLoop Lösen
+- [] Im Modul 319 mit Mission 8 beginnen.
+- Mit Desktop fertig Gestallten
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
