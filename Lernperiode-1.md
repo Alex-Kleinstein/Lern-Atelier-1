@@ -48,8 +48,8 @@ Heute habe ich... (50-100 Wörter)
   
 
 ## Planung 5.9.2025
-- [] Im Modul 319 ForLoop Lösen
-- [] Im Modul 319 mit Mission 8 beginnen.
-- Mit Desktop fertig Gestallten
+- [ ] Im Modul 319 ForLoop Lösen
+- [ ] Im Modul 319 mit Mission 8 beginnen.
+- [ ] Mit Desktop fertig Gestallten
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
