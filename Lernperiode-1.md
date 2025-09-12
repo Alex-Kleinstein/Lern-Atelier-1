@@ -45,11 +45,29 @@ Heute habe ich... (50-100 Wörter)
 - [X] Weiter an der Deskopapplikation aus Testen
 - [X] Bei Mission 319 Mission 6 erledigen
 - [X] Bei 413 1709 erldeigen
+
+# Refelxion
+Ich konnte alle Aufträge erledigen wie ich wollte.
   
 
 ## Planung 5.9.2025
-- [ ] Im Modul 319 ForLoop Lösen
-- [ ] Im Modul 319 mit Mission 8 beginnen.
+- [X] Im Modul 319 ForLoop Lösen
+- [X] Im Modul 319 mit Mission 8 beginnen.
 - [ ] Mit Desktop fertig Gestallten
+
+# Reflexion 
+Ich konnte alles Erledigen ausser das gestallten des Programms
+
+## Planung 12.9.2025
+- [ ] Im Modul 413 1713 erledigen
+- [ ] Im Modul 413 1720 erledigen
+- [ ] Im Modul 413 1721 erledigen
+
+# Reflexion 
+
+
+# Feinplanung 19.9.2025
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
