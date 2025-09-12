@@ -55,7 +55,7 @@ Ich konnte alle Aufträge erledigen wie ich wollte.
 - [X] Im Modul 319 mit Mission 8 beginnen.
 - [ ] Mit Desktop fertig Gestallten
 
-# Reflexion 
+#### Reflexion 
 Ich konnte alles Erledigen ausser das gestallten des Programms
 
 ## Planung 12.9.2025
@@ -63,7 +63,7 @@ Ich konnte alles Erledigen ausser das gestallten des Programms
 - [ ] Im Modul 413 1720 erledigen
 - [ ] Im Modul 413 1721 erledigen
 
-# Reflexion 
+#### Reflexion 
 
 
 # Feinplanung 19.9.2025
