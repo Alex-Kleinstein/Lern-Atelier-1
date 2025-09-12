@@ -60,14 +60,15 @@ Ich konnte alles Erledigen ausser das gestallten des Programms
 
 ## Planung 12.9.2025
 - [ ] Im Modul 413 1713 erledigen
-- [ ] Im Modul 413 1720 erledigen
+- [X] Im Modul 413 1720 erledigen
 - [ ] Im Modul 413 1721 erledigen
 
 #### Reflexion 
-
+- Ich konmnte 1720 Fertig stellen aber ich kontne die anderen 2 noch nicht Erledigen weil der uftrag relativ in die länge sich gezogen hat.
 
 # Feinplanung 19.9.2025
-
+- [ ] Im Modul 413 1721 erledigen
+- [ ] Im Modul 413 1713 erledigen
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
