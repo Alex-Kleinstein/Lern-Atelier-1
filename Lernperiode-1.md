@@ -44,7 +44,7 @@ Heute habe ich... (50-100 Wörter)
 ## Planung 29.8.2025
 - [X] Weiter an der Deskopapplikation aus Testen
 - [X] Bei Mission 319 Mission 6 erledigen
-- [X] Bei 413 1709 erldeigen
+- [X] Bei 431 1709 erldeigen
 
 # Refelxion
 Ich konnte alle Aufträge erledigen wie ich wollte.
@@ -59,18 +59,25 @@ Ich konnte alle Aufträge erledigen wie ich wollte.
 Ich konnte alles Erledigen ausser das gestallten des Programms
 
 ## Planung 12.9.2025
-- [ ] Im Modul 413 1713 erledigen
-- [X] Im Modul 413 1720 erledigen
-- [ ] Im Modul 413 1721 erledigen
+- [ ] Im Modul 431 1713 erledigen
+- [X] Im Modul 431 1720 erledigen
+- [ ] Im Modul 431 1721 erledigen
 
 #### Reflexion 
 - Ich konmnte 1720 Fertig stellen aber ich kontne die anderen 2 noch nicht Erledigen weil der uftrag relativ in die länge sich gezogen hat.
 
 # Feinplanung 19.9.2025
-- [ ] Im Modul 413 1721 erledigen
-- [ ] Im Modul 413 1713 erledigen
+- [ ] Im Modul 431 1721 erledigen
+- [ ] Im Modul 431 1713 erledigen
 
 #### Reflexion 
-- ICh konnte 1721 & 1713 nicht Fertig lösen werde aber diese aber Zuahsue noch beenden 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+- Ich konnte 1721 & 1713 nicht Fertig lösen werde aber diese aber noch Zuhause.
+
+
+# Feinplanung Ferien 
+- [ ] Modul 431 inklsuive Experten Ziele, Erweiterte Ziele fertigstellen
+- [ ] OBA von Modul 319 fertigstellen
+  
+
+  ## Lernperiode Reflexion
+- In dieser Lernperiode konnte ich viele Aufträge von den Modulen 319 und 431 bearbeiten und in die Desktopaplikation Anwendung hinein starten, habe mir aber für den Anfang zu hohe Ziele gesetz die ich dennoch Umbedingt weiter verfolgen möchte.
