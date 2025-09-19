@@ -70,5 +70,7 @@ Ich konnte alles Erledigen ausser das gestallten des Programms
 - [ ] Im Modul 413 1721 erledigen
 - [ ] Im Modul 413 1713 erledigen
 
+#### Reflexion 
+- ICh konnte 1721 & 1713 nicht Fertig lösen werde aber diese aber Zuahsue noch beenden 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
