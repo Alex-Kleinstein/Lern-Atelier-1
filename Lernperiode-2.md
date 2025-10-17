@@ -30,9 +30,10 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 ## Planung 17.10.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] 431-1716-Checkliste erstellen 
-- [ ] 431-Expertenzile von Handlungsziel 2 abgeben
+- [X] 431-1716-Checkliste erstellen 
+- [X] 431-Expertenzile von Handlungsziel 2 abgeben
 - [ ] 431-1728-Präsention erstellen
 - [ ] C++ Grundlagen anschauen W3Schools
 
-(Heute habe ich... (50-100 Wörter))
+Heute konnte ich die Checkliste und die ganzen Expertenziele bei Handlungsziel 2 abgeben und konnte bei der Präsentation weiterarbeitetn jedoch noch nicht beenden. Da die Checkliste sehr viel Zeit benötigte.
+Ich werde an der Prsäentation noch Zuahuse weiterabeiten.
