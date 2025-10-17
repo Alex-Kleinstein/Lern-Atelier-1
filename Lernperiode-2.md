@@ -37,3 +37,10 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 Heute konnte ich die Checkliste und die ganzen Expertenziele bei Handlungsziel 2 abgeben und konnte bei der Präsentation weiterarbeitetn jedoch noch nicht beenden. Da die Checkliste sehr viel Zeit benötigte.
 Ich werde an der Prsäentation noch Zuahuse weiterabeiten.
+
+## Planung 24.10.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Fortgeschritternere C# Sachen anschauen
+- [ ] An meine Desktop Apllikation weiterarbeiten
