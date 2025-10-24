@@ -28,8 +28,6 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 
 ## Planung 17.10.2024
-3 bis 5 klar messbare Arbeitspakete.
-
 - [X] 431-1716-Checkliste erstellen 
 - [X] 431-Expertenzile von Handlungsziel 2 abgeben
 - [X] 431-1728-Präsention erstellen
@@ -39,8 +37,14 @@ Heute konnte ich die Checkliste und die ganzen Expertenziele bei Handlungsziel 2
 Ich werde an der Prsäentation noch Zuahuse weiterabeiten.
 
 ## Planung 24.10.2024
-3 bis 5 klar messbare Arbeitspakete.
-
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Fortgeschritternere C# Sachen anschauen
-- [ ] An meine Desktop Apllikation weiterarbeiten
+- [X] An meine Desktop Apllikation weiterarbeiten
+
+Ich konnte heute weiter an meiner Desktop Applikation arbeitetn und habe von der Standart Windows Forms Framework auf WPF umgestellt. Da ich in WPF die Buttons viel besser anpassen kann. Ich konnte schon Buttons erstellen die auch FUnktionieren, will dieses aber für nächstes mal schöner Gestallten das ich nur noch die Hintergrund ausführende Applikation programmieren muss die Fired wenn man auf den Button klickt. Meine C++ kentnisse werde ich warscheindlich nächstes mal oder noch Zuahuse ausbessern. Ansich finde ich das ich heute gut gearbeitet habe, da ichg eradea mit WPF einsteige.
+
+## Planung 31.10.2024
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
