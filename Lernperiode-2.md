@@ -32,7 +32,7 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 - [X] 431-1716-Checkliste erstellen 
 - [X] 431-Expertenzile von Handlungsziel 2 abgeben
-- [ ] 431-1728-Präsention erstellen
+- [X] 431-1728-Präsention erstellen
 - [ ] C++ Grundlagen anschauen W3Schools
 
 Heute konnte ich die Checkliste und die ganzen Expertenziele bei Handlungsziel 2 abgeben und konnte bei der Präsentation weiterarbeitetn jedoch noch nicht beenden. Da die Checkliste sehr viel Zeit benötigte.
