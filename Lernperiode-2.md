@@ -41,7 +41,7 @@ Ich werde an der Prsäentation noch Zuahuse weiterabeiten.
 - [ ] Fortgeschritternere C# Sachen anschauen
 - [X] An meine Desktop Apllikation weiterarbeiten
 
-Ich konnte heute weiter an meiner Desktop Applikation arbeitetn und habe von der Standart Windows Forms Framework auf WPF umgestellt. Da ich in WPF die Buttons viel besser anpassen kann. Ich konnte schon Buttons erstellen die auch FUnktionieren, will dieses aber für nächstes mal schöner Gestallten das ich nur noch die Hintergrund ausführende Applikation programmieren muss die Fired wenn man auf den Button klickt. Meine C++ kentnisse werde ich warscheindlich nächstes mal oder noch Zuahuse ausbessern. Ansich finde ich das ich heute gut gearbeitet habe, da ichg eradea mit WPF einsteige.
+Ich konnte heute weiter an meiner Desktop Applikation arbeitetn und habe von der Standart Windows Forms Framework auf WPF umgestellt. Da ich in WPF die Buttons viel besser anpassen kann. Ich konnte schon Buttons erstellen die auch FUnktionieren, will dieses aber für nächstes mal schöner Gestallten das ich nur noch die Hintergrund ausführende Applikation programmieren muss die Fired wenn man auf den Button klickt. Meine C++ kentnisse werde ich warscheindlich nächstes mal oder noch Zuahuse ausbessern. An sich finde ich das ich heute gut gearbeitet habe, da ichg eradea mit WPF einsteige.
 
 ## Planung 31.10.2024
 - [ ] C++ Grundlagen anschauen W3Schools
