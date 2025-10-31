@@ -47,4 +47,4 @@ Ich konnte heute weiter an meiner Desktop Applikation arbeitetn und habe von der
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
-
+- [ ] An der Gruppen Porjekt arbeit von 319 arbeiten
