@@ -47,4 +47,16 @@ Ich konnte heute weiter an meiner Desktop Applikation arbeitetn und habe von der
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
-- [ ] An dem Gruppen Projekt arbeit von 319 arbeiten
+- [X] An dem Gruppen Projekt arbeit von Projektarbeit arbeiten
+
+Wir haben an dem Projekt arbeit das wir neu am Mittwoch erstellen weiter gearbeitet. In dem wir auf Canvas ein Grund Design erstellt haben um dies dann in xaml um zu setzen. Mit dem sind wir zum grösstenteil Fertig geworden, und wäreden dies nächstens Herrn. Fournier zukommen lassen. Anschliessend haben wir die Team bearbeitung aufgesetzt, dies führte jedoch zu kleinen Problemen da das Debugging Programm nur auf meinem Computer und nicht auf den Computer von Tobias und Devrim ausgeführt wird. Ansich finde ich das wir gut gearbeitet haben da wir uns in diesem Projekt mit jeglicher komplizierten Materie auseinader setzen.
+
+## Plannung 07.10.2024
+Priorität:
+- [ ] An dem Budget-Assistenten mit Tobias und Devrim weiterarbeiten
+
+Optional:
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+  
