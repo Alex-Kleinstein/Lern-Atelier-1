@@ -60,7 +60,7 @@ Optional:
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
   
-  Wir haben weiter an unserem Projekt gearbeitet konnte die Farbpalette definieren und haben die ersten Button erstellt,jedoch hatten wir ein grosses Problem mit dem Kreisdiagramm weil wir nur Plugin die zuverfügung hatten die nicht wircklich Funktionierten. Wir möchten dies möglichst schnell beheben in den wir nächstes mal daran weiterarbeiten.
+Wir haben weiter an unserem Projekt gearbeitet konnte die Farbpalette definieren und haben die ersten Button erstellt,jedoch hatten wir ein grosses Problem mit dem Kreisdiagramm weil wir nur Plugin die zuverfügung hatten die nicht wircklich Funktionierten. Wir möchten dies möglichst schnell beheben in den wir nächstes mal daran weiterarbeiten.
 
 ## Plannung 14.11.2025
 Priorität:
