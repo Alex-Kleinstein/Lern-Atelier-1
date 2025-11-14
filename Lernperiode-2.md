@@ -64,6 +64,18 @@ Wir haben weiter an unserem Projekt gearbeitet konnte die Farbpalette definieren
 
 ## Plannung 14.11.2025
 Priorität:
+- [X] An dem Budget-Assistenten mit Tobias und Devrim weiterarbeiten
+
+Optional:
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Reflektion:
+Wir konnten heute die erste Startseite, wo das Diagramm dargestellt wird Disgn Technisch ferstigstellen und mit den anderen Anfangen. Heute hatte ich ein wenig Probleme mit Einfügen der Bilder in die Menüleiste. Und mit dem erstellen der Corner für die Menüleiste. Das Corner Problem konnte gelöst werden und für die Bilder habe ich eine zwischen Lösung gefunden. Ansich finde ich habe heute gut gearbeitet und bin gut voran gekommen, jedoch scheint es mir das wir das Backend warscheindlich auch noch Zuhause erarbeiten müssen um im Zeitplan zu bleiben. Nächstes mal werden wir der Einzahlung und Auszahlungseite weiterarbeiten.
+
+## Plannung 21.11.2025
+Priorität:
 - [ ] An dem Budget-Assistenten mit Tobias und Devrim weiterarbeiten
 
 Optional:
