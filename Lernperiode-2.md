@@ -96,3 +96,9 @@ Optional:
 
 Reflektion:
 Wir haben heute mit der Powerpoint angefangen über den Budget Assistenten, Sie hat insgesammt 12 Seiten wie haben die Seiten folgend aufgeteilt, der Styl der Powerpoint ist festgelegt und die Titel gesetzt, nun muss der Inhalt noch fertig reinkommen in die Powerpoint.
+
+## Plannung 5.12.2025
+Priorität:
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
