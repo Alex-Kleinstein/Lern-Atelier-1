@@ -87,7 +87,7 @@ Optional:
 
 ## Plannung 28.11.2025
 Priorität:
-- [ ] An dem Budget-Assistenten mit Tobias und Devrim die Powerpint erstellen
+- [x] An dem Budget-Assistenten mit Tobias und Devrim die Powerpint erstellen
 
 Optional:
 - [ ] C++ Grundlagen anschauen W3Schools
