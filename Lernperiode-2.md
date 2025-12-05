@@ -99,6 +99,18 @@ Wir haben heute mit der Powerpoint angefangen über den Budget Assistenten, Sie 
 
 ## Plannung 5.12.2025
 Priorität:
+- [X] Das OBA für das Modul 162 erstellen
+
+Optional:
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Reflektion:
+Ich konnte heute mit dem erstellen der OBA beginnen, dabei erstellte ich die Aufgabenstellung, schaute mithilfe der Präsentation von 162 die Kriterien nach und Wertete aus ob die Taberlle die ich beim Bundesamt für Statistik herausgesucht habe den Anforderungen entspricht, ich konnte etwa die hälfte des OBA fertigstellen inklusive der Diagramme.
+
+## Plannung 12.12.2025
+Priorität:
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
