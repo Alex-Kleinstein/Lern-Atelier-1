@@ -111,6 +111,15 @@ Ich konnte heute mit dem erstellen der OBA beginnen, dabei erstellte ich die Auf
 
 ## Plannung 12.12.2025
 Priorität:
+- [X] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Reflektion:
+Heute habe ich meine C++ Grundkentnisse ausgebssert in dem ich nochmals die Alternation und Operatoren Angeschaut habe. Ich habe in VS Code bisschen gübt und auf W3 Scools die jeweilige THeroei nochmal durchgeschaut. Anschliessend habe ich noch FLutter für Visual Studio Code installiert mit dem ich künftig 2D-Gui Projekte erstellen will. Diese habe ich dem Porgramm VIsual Studio als Extension hinzugefügt.
+
+## Plannung 19.12.2025
+Priorität:
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
