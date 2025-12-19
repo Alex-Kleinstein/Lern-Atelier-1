@@ -131,3 +131,6 @@ Ich habe mich heute intensiv mit dem ISO/OSI Model auseinander gesetzt. Für die
 Ich habe mich noch bei Herr. Thut etwas über das ISO/OSI Model erklären lassen und verstehe jetzt das Grundsätlich immer alle Ebenenen 
 benutzt werden jeodhc nicht immer Komplett empackt werden. Ich werde zukünftig weiter an dem Modul im Lern-Atelier arbeiten möchte jedoch mein Fokus auch weiter auf 
 C++ legen.
+
+## Reflektion Lernperiode
+In dieser LErnperiode habe ich an verschiedenen Modulen wie 117, 143 und 319 gearbeitet und an dem gemeinsamen Projekt mit Tobias & Devrim. Ich konnte aus dieser Lernperiode viele nützliche Informationen und Wissen mitnehmen und konnte die erste einblicke in XAML verlangen.
