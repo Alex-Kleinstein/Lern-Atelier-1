@@ -119,7 +119,15 @@ Reflektion:
 Heute habe ich meine C++ Grundkentnisse ausgebssert in dem ich nochmals die Alternation und Operatoren Angeschaut habe. Ich habe in VS Code bisschen gübt und auf W3 Scools die jeweilige THeroei nochmal durchgeschaut. Anschliessend habe ich noch FLutter für Visual Studio Code installiert mit dem ich künftig 2D-Gui Projekte erstellen will. Diese habe ich dem Porgramm VIsual Studio als Extension hinzugefügt.
 
 ## Plannung 19.12.2025
+- [ ] Modul 117 1708
 Priorität:
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Reflektion:
+Heute habe ich Zusammen mit Tobias an dem Modul 117 1708 gearbeitet. Wir sind zuerzeit noch an der Mindmap.
+Ich habe mich heute intensiv mit dem ISO/OSI Model auseinander gesetzt. Für dies musste ioch viel Zeit aufwenden. 
+Ich habe mich noch bei Herr. Thut etwas über das ISO/OSI Model erklären lassen und verstehe jetzt das Grundsätlich immer alle Ebenenen 
+benutzt werden jeodhc nicht immer Komplett empackt werden. Ich werde zukünftig weiter an dem Modul im Lern-Atelier arbeiten möchte jedoch mein Fokus auch weiter auf 
+C++ legen.
