@@ -14,8 +14,7 @@ Eigentlich gut
 
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-Ich  möchte ein richtiges Projekt starten können, und besser in den Modulen vorankommen. (Effizienter Arbeiten)
+Effizienter Arbeiten
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
