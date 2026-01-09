@@ -6,12 +6,11 @@ Datum: 09.1.2026 bis 27.3.2026
 - C# fortgeschritterene Sachen Anschauen
 - C++ die Grundlagen verstehen
 - Einfaches Programm erstellen (Vieleicht: HWID Spoofer Warscheindlich später)
-
-### Noten
+  
+## Noten
 319 = 5
 431 = 6
-Eigentlich gut
-
+162 = 5.5
 
 ### Veränderungen
 Effizienter Arbeiten
