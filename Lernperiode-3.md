@@ -42,9 +42,9 @@ Ich habe Zusammmen mit Devrim und Tobias an dem Modul 117 die Aufträge 1711 & 1
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
 Priorität
-- [ ] Weiter an Gemeinde Illeburg arbeiten (Animation für Besen)
-- [ ] 1720 von MOdul 177 Fertig Stellen
-- [ ] Unreal Engine 5.3.2 installieren
+- [X] Weiter an Gemeinde Illeburg arbeiten (Animation für Besen)
+- [X] 1720 von MOdul 177 Fertig Stellen
+- [X] Unreal Engine 5.3.2 installieren
 
 Reflektion:
 Heute habe ich zuerst Animationen für das Spiel gmeinde Illeburg erstellt und dannach mit TObias 1720 vom Modul 177 Fertig gestellt. Wir haben auch Unreal Engine 5.3.2 INstalliert.
