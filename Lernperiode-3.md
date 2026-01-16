@@ -49,3 +49,11 @@ Priorität
 Reflektion:
 Heute habe ich zuerst Animationen für das Spiel gmeinde Illeburg erstellt und dannach mit TObias 1720 vom Modul 177 Fertig gestellt. Wir haben auch Unreal Engine 5.3.2 INstalliert.
 Da wir eine Custom Map für Unreal Engine erstellen möchten. BIs heute konnte wir einfahc mal Unreal Engine installieren. Ich finde gesammt habe ich gut gearbeitet da ich alle meine Ziele für heute erfüllen konnte. Wir müssen jedoch uns genauer mit dme Modden von Ready or not beschäftigen.
+
+## Planung 23.1.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Priorität
+- [ ] Ready Or Not Map Template Downloaden
