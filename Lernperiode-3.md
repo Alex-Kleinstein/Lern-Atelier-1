@@ -35,3 +35,17 @@ Priorität
 - [X] Modul 117 an 1713 arbeiten 
 
 Ich habe Zusammmen mit Devrim und Tobias an dem Modul 117 die Aufträge 1711 & 1713 bearbeitet. In den beiden Auftrögen haben wir uns fortgeschritten mit dem NEtzwerk auseinander gesetzt. Bei 1711 haben wir 2 verschiedene Schweizer Anbieter gegenüber gestellt und sind zum Schluss gekommen das Galaxus der bessere Anbieter als Green ist. Wegen der höheren Upstream und Downstream rate.
+
+## Planung 16.1.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Priorität
+- [ ] Weiter an Gemeinde Illeburg arbeiten (Animation für Besen)
+- [ ] 1720 von MOdul 177 Fertig Stellen
+- [ ] Unreal Engine 5.3.2 installieren
+
+Reflektion:
+Heute habe ich zuerst Animationen für das Spiel gmeinde Illeburg erstellt und dannach mit TObias 1720 vom Modul 177 Fertig gestellt. Wir haben auch Unreal Engine 5.3.2 INstalliert.
+Da wir eine Custom Map für Unreal Engine erstellen möchten. BIs heute konnte wir einfahc mal Unreal Engine installieren. Ich finde gesammt habe ich gut gearbeitet da ich alle meine Ziele für heute erfüllen konnte. Wir müssen jedoch uns genauer mit dme Modden von Ready or not beschäftigen.
