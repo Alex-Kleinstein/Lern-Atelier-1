@@ -56,4 +56,15 @@ Da wir eine Custom Map für Unreal Engine erstellen möchten. BIs heute konnte w
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
 Priorität
-- [ ] Ready Or Not Map Template Downloaden
+- [X] Ready Or Not Map Template Downloaden
+
+Reflektion:
+Wir haben heute mit Devrim & Tobias die Ready Or not template erfolgreich installiert. Wir konnte mithilfe eines Routers Teamcreate starten und einen ersten einblick in Ready OR NOT Template erhalten. In diesem Prozess konnten wir viel dazulernen das sie eigentlich nur meine IP als Host haben müssen um mit meinem Projekt zu interaggieren zu können. Ich finde ich habe gut gearbeitet da wir die erste Schritte geschafft haben die wir für unserer Custom Map brauchen.
+
+## Planung 13.2.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Priorität
+- [ ] Ready Or Not Map Template erstes Haus erstellen
