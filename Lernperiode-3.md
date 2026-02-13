@@ -68,3 +68,16 @@ Wir haben heute mit Devrim & Tobias die Ready Or not template erfolgreich instal
 
 Priorität
 - [ ] Ready Or Not Map Template erstes Haus erstellen
+- [X] Modul 117 1722
+- [X] Modul 117 1723
+
+Reflektion:
+Wir haben heute mit Devrim & Tobias wir im Moudl 1722 & 1723 fertiggestellt. Wir konnten die Aufträge gut zusammen berabeiten und haben uns über die jeweiligen Details besprochen. Bei dem Auftrag 1722 haben wir einen Zeitplan erstellt und beim 1732 haben wir eine Kostenauflistung und eine Offerte gemacht. Wir konnten heute effiktiv und Effizient arbeiten.
+
+## Planung 20.2.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+Priorität
+- [ ] Ready Or Not Map Template erstes Haus erstellen
