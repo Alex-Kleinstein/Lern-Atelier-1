@@ -73,6 +73,7 @@ Priorität
 
 Reflektion:
 Wir haben heute mit Devrim & Tobias wir im Moudl 1722 & 1723 fertiggestellt. Wir konnten die Aufträge gut zusammen berabeiten und haben uns über die jeweiligen Details besprochen. Bei dem Auftrag 1722 haben wir einen Zeitplan erstellt und beim 1732 haben wir eine Kostenauflistung und eine Offerte gemacht. Wir konnten heute effiktiv und Effizient arbeiten.
+Übernächstes mal werden wir wieder mit Reeady Or Not fortfahren.
 
 ## Planung 20.2.2025
 - [ ] C++ Grundlagen anschauen W3Schools
