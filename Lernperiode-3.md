@@ -81,4 +81,15 @@ Wir haben heute mit Devrim & Tobias wir im Moudl 1722 & 1723 fertiggestellt. Wir
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
 Priorität
+- [X] Modul 117 fertig stellen.
+- [ ] Ready Or Not Map Template erstes Haus erstellen
+
+Reflektion:
+Wir haben heute mit Devrim & Tobias, Noe und Joel weiter am Netzwerklabor gearbeitet. Wir haben erneut ein Netzwerk aufgesetzt und weiter an unserer Dokumantation gearbeit während des Arbeitens beim zweitenmal Netzwerk einrichten ging es viel schneller. Und haben den ablauf langsam Klar jedoch sind die Aufträöge der Dokumentation sehr schlecht gestalltet, so dass man nicht genau weiss was gemacht werden muss. Ich find wir haben gut gearbeitet.
+
+## Planung 27.2.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
 - [ ] Ready Or Not Map Template erstes Haus erstellen
