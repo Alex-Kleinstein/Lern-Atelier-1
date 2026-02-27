@@ -92,4 +92,14 @@ Wir haben heute mit Devrim & Tobias, Noe und Joel weiter am Netzwerklabor gearbe
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
-- [ ] Ready Or Not Map Template erstes Haus erstellen
+- [ ] Roblox Spiel erstellen
+
+Reflektion:
+Eigentlich wollten wir an der Ready or NOt Map weitermachen dies fürhte leider wieder zu mehreren Problemen anschliessend habne wir uns Entschieden wir Brechen das ab und machen statdessen ein Roblox Game. Dies mache ich mit Tobias,Devrim & Noe. Wir wollen ein Spiel machen in dem ein Normaler Zivil Bürger die Wahl hat zwischen einem Agent zu werden oder nicht. 
+
+## Planung 6.3.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+- [ ] Roblox Spiel erstellen
