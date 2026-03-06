@@ -104,8 +104,6 @@ Eigentlich wollten wir an der Ready or NOt Map weitermachen dies fürhte leider 
 
 - [ ] Roblox Spiel erstellen
 
-Reflektion:
-Eigentlich wollten wir an der Ready or NOt Map weitermachen dies fürhte leider wieder zu mehreren Problemen anschliessend habne wir uns Entschieden wir Brechen das ab und machen statdessen ein Roblox Game. Dies mache ich mit Tobias,Devrim & Noe. Wir wollen ein Spiel machen in dem ein Normaler Zivil Bürger die Wahl hat zwischen einem Agent zu werden oder nicht. 
 
 Reflektion:
 Heute habe ioch mit Devrim,Tobias und Noe weiter an unserem Roblox Spiel garbeitet wir konntne mit der ersten Cut-Scene schon ziemlich weit kommen da nun die Kamera Fixierung funktioniert. Ich finde wir haben heute gut gearbeitet da wir gut voran gekommen sind. Und wir möchten nächstes mal damit fortfahren.
