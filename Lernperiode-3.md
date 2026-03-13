@@ -116,11 +116,11 @@ Heute habe ioch mit Devrim,Tobias und Noe weiter an unserem Roblox Spiel garbeit
 - [X] Roblox Spiel erstellen
   
   Reflektion:
-  Heute konnte ich an meinem Roblox Spiel mit Devrim & Noe weiter daran arbeiten und weiter an der ersten Scene arbeiten meiner meinung nach sind wir gut Vorangekommen zusätzlich habe ich auch noch an Modul 106 2404 fertiggestellt.
+  Heute konnte ich an meinem Roblox Spiel mit Devrim & Noe weiter daran arbeiten und weiter an der ersten Scene arbeiten welche schon fast Fertig ist, meiner meinung nach sind wir gut Vorangekommen zusätzlich habe ich auch noch an Modul 106 2404 fertiggestellt.
 
 ## Planung 20.3.2026
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
-- [] Roblox Spiel erstellen
+- [ ] Roblox Spiel erstellen
