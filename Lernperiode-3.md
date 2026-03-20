@@ -124,3 +124,13 @@ Heute habe ioch mit Devrim,Tobias und Noe weiter an unserem Roblox Spiel garbeit
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
 - [ ] Roblox Spiel erstellen
+
+  Reflektion:
+  Heute konnte ich an meinem Roblox Spiel mit Devrim & Noe & Tobias Beck arbeiten. Wir konnten bei der Ersten Cutscene noch die Charaktere Optimieren. In dem wir den Characteren kleider angezogen haben. Nächstes mal werde ich jedoch noch an dem Modul 106 rbeiten. Aber ich dneke heute haben wir gut gearbeitet da wir einen Ordentlichen schritt voran gekommen haben.
+
+  ## Planung 27.3.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+- [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
+
+- [ ] Roblox Spiel erstellen
