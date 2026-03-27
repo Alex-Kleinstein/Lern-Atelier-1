@@ -134,3 +134,7 @@ Heute habe ioch mit Devrim,Tobias und Noe weiter an unserem Roblox Spiel garbeit
 - [ ] An meine Desktop Apllikation weiterarbeiten (Button schöner Ausbessern & Hintergrund Applikation)
 
 - [ ] Roblox Spiel erstellen
+- [X] Modul 106 108 bearbeiten.
+
+# Reflektion der Lernperiode:
+In dieser Lernperiode haben wir angefangen an unserem ROblox Spiel ebenfalls haben wir auch an den Modulen 164 & 117 und 106 gearbeitet. Meiner meinung nach hätte ich trotzdem Porduktiver sein können da ich meine erwarteten Zielen nicht ganz Realiseren konnte. Und unser Ready or Not Projekt konnten wir leider nicht umsetzten da es zu komplieziert war die verschiedenen Clients mit Unreal Engine miteinander zu verbinden.
