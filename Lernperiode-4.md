@@ -39,3 +39,10 @@ Priorität
 
 # Reflektion der Lernperiode:
 Heute habe ich an 1720 gearbeitet und feritg gestellt ebenfalls 1722. Ich hätte aber deutlich effizienter Abreiten können,owhol ich ein Kurrzzeitiges Problem mit dem Anmelden von den neu erstellten SQL-Benutzer Accounts hatte.
+## Planung 08.05.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+Priorität
+
+- [ ] Modul 106 an 1723
+- [ ] Modul 106 an 1724
