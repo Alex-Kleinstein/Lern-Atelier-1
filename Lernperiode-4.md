@@ -42,3 +42,15 @@ Heute habe ich an 1720 gearbeitet und feritg gestellt ebenfalls 1722. Ich hätte
 ## Planung 08.05.2025
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
+
+## Planung 22.05.2025
+- [X] An der retter.ch Website arbeiten
+
+Reflektion:
+Heute habe ich bei der retter.ch das Menü bearbeitet das dies auch auf dem Desktop auf der richtigen Grösse funktioniert da ich vorher das Problem hatte. Da das Menü nur auf dem Mobilgerät richtig skalieren kann und nicht auf dem Desktop. Dies konnte ich jedoch erfolgreich mithilfe einer Lightbox bei Wix Studio lösen. Deshlab finde ich ich habe s<her Produkt und inuativ gearbeitet.
+
+## Planung 29.05.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
+
+
