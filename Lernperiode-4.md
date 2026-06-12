@@ -39,7 +39,7 @@ Priorität
 
 # Reflektion der Lernperiode:
 Heute habe ich an 1720 gearbeitet und feritg gestellt ebenfalls 1722. Ich hätte aber deutlich effizienter Abreiten können,obwhol ich ein Kurrzzeitiges Problem mit dem Anmelden von den neu erstellten SQL-Benutzer Accounts hatte.
-## Planung 08.05.2025
+## Planung 08.05
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 
@@ -54,5 +54,10 @@ Heute habe ich bei der retter.ch das Menü bearbeitet das dies auch auf dem Desk
 - [ ] Neue Applikationsidee entwickeln (Management System)
 
 ## Planung 12.06.2025
-- [ ] Französich Repetition
+- [X] C++ Grundlagen anschauen W3Schools
 Reflektion:
+Heute habe ich sehr fleissig die C++ Grundlagen angeschaut und finde das ich heute positiv Gut und konzentriert geabreitet habe.
+
+## Planung 19.06.2025
+- [ ] C++ Grundlagen anschauen W3Schools
+- [ ] Neue Applikationsidee entwickeln (Management System)
