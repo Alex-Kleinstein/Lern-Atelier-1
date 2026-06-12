@@ -53,4 +53,6 @@ Heute habe ich bei der retter.ch das Menü bearbeitet das dies auch auf dem Desk
 - [ ] C++ Grundlagen anschauen W3Schools
 - [ ] Neue Applikationsidee entwickeln (Management System)
 
-
+## Planung 12.06.2025
+- [ ] Französich Repetition
+Reflektion:
