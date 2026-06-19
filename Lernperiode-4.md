@@ -59,5 +59,10 @@ Reflektion:
 Heute habe ich sehr fleissig die C++ Grundlagen angeschaut und finde das ich heute positiv Gut und konzentriert geabreitet habe.
 
 ## Planung 19.06.2025
+- [X] Die Screenshots für die Webseite Modul 293 von meinem SPiel nehmen
+- [X] Weiter an Modul 122 an der Automatisierung arbeiten.
+Reflektion:
+Heute habe icb an Modul 122 gearbeitet und habe weiter an der Automatiesirung geabreitet und bins chon sher weit gekommen und habe dazu noch die BIlder für Modul 122 gemacht um dann auch mit der Website starten zu können. Ich finde heute habe ich sher Produktive gearbeitet da ich alle Ziele die ich erriechne wollte für heute erreicht habe.
+
+## Planung 26.06.2025
 - [ ] C++ Grundlagen anschauen W3Schools
-- [ ] Neue Applikationsidee entwickeln (Management System)
