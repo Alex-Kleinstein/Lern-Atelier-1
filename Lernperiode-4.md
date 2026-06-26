@@ -68,6 +68,6 @@ Heute habe icb an Modul 122 gearbeitet und habe weiter an der Automatiesirung ge
 - [X] C++ Grundlagen anschauen W3Schools
 - [X] Video Schneiden sehr Informatikreich
 
-#Reflektion der Lernperiode:
+Reflektion der Lernperiode:
 Diese Lernperiode war ich leider nicht so Produktiv konnte die Zeit für die unterschiedlichsten Sachen sehr gut Nutzen in dem ich an den Modulen 293 am Website bauen und 122 um Script zu erstellen gearbeitet habe sowie auch an unserer Firmen Website retter.ch gearbeitet und konnte wichtige Design anpassungen vornehmen um das Design von unserer Seite signifikant zu verbessern. Da ich zwei Wochen weg war habe ich eh ein paar Tage nicht zu verfügung welche ich für das Lernen von C++ gebräucht hätte können. 
 
