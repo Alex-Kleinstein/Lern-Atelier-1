@@ -65,4 +65,9 @@ Reflektion:
 Heute habe icb an Modul 122 gearbeitet und habe weiter an der Automatiesirung geabreitet und bins chon sher weit gekommen und habe dazu noch die BIlder für Modul 122 gemacht um dann auch mit der Website starten zu können. Ich finde heute habe ich sher Produktive gearbeitet da ich alle Ziele die ich erriechne wollte für heute erreicht habe.
 
 ## Planung 26.06.2025
-- [ ] C++ Grundlagen anschauen W3Schools
+- [X] C++ Grundlagen anschauen W3Schools
+- [X] Video Schneiden sehr Informatikreich
+
+#Reflektion der Lernperiode:
+Diese Lernperiode war ich leider nicht so Produktiv konnte die Zeit für die unterschiedlichsten Sachen sehr gut Nutzen in dem ich an den Modulen 293 am Website bauen und 122 um Script zu erstellen gearbeitet habe sowie auch an unserer Firmen Website retter.ch gearbeitet und konnte wichtige Design anpassungen vornehmen um das Design von unserer Seite signifikant zu verbessern. Da ich zwei Wochen weg war habe ich eh ein paar Tage nicht zu verfügung welche ich für das Lernen von C++ gebräucht hätte können. 
+
